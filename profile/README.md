@@ -27,6 +27,7 @@ Chaque projet est contenu dans un **dépôt GitHub indépendant**, avec :
 
 | Projet | Thème | Stack | Lien |
 | --- | --- | --- | --- |
+| [PATAPIM](https://github.com/3mpty-s-playground/patapim.git) | Intégration et animation d'un modèle 3D | Three.js + ScrollTrigger | [Voir la démo](https://patapim.vercel.app/) |
 | [FILLING TXT](https://github.com/3mpty-s-playground/filling-txt.git) | Remplissage progressive d'un texte au scroll | GSAP + ScrollTrigger | À venir |
 | [RANDOMIZED](https://github.com/3mpty-s-playground/randomized.git) | Animation de texte au scroll | GSAP + ScrollTrigger | [Voir la démo](https://randomized-sable.vercel.app/) |
 | [BOUNCING](https://github.com/3mpty-s-playground/bouncing.git) | Physique 2D en JS | Matter.js | À venir |
